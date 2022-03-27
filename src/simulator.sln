@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "simulator", "simulator.csproj", "{E95D1FFE-E060-44E8-ACE8-D87CA7F1F1CA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E95D1FFE-E060-44E8-ACE8-D87CA7F1F1CA}.Debug.ActiveCfg = Debug|.NET
+		{E95D1FFE-E060-44E8-ACE8-D87CA7F1F1CA}.Debug.Build.0 = Debug|.NET
+		{E95D1FFE-E060-44E8-ACE8-D87CA7F1F1CA}.Release.ActiveCfg = Release|.NET
+		{E95D1FFE-E060-44E8-ACE8-D87CA7F1F1CA}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
